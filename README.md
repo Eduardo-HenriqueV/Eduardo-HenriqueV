@@ -1,8 +1,7 @@
-### 👋 
+##### 👋 
 
 <div style="display:flex; width: 100%; justify-content: flex-start">
   <a href="https://git.io/typing-svg">
- <p>👋</p>
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20+me+chamo+Eduardo+Henrique;Seja+muito+bem+vindo!+:)" alt="Typing SVG" style="font-size: 180px" >
   </a>
 </div>
